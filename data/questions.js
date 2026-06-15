@@ -1299,6 +1299,188 @@
         "answer": 1,
         "explain": "Biyolojik birikim: Pestisit her basamakta birikir. Kartal gibi üst tüketicilerde konsantrasyon en yüksek seviyeye ulaşır ve yaşamsal tehdit oluşturur."
       }
+    ],
+    "Sürdürülebilir Yaşam ve Geri Dönüşüm": [
+      {
+        "level": "kolay",
+        "text": "Geri dönüşümün temel amacı aşağıdakilerden hangisidir?",
+        "options": [
+          "Atık miktarını artırmak",
+          "Atıkları yeniden ham madde olarak kullanmak",
+          "Doğal kaynakları daha hızlı tüketmek",
+          "Çöpleri doğaya bırakmak"
+        ],
+        "answer": 1,
+        "explain": "Geri dönüşüm, kullanılabilir atıkların işlenerek yeniden ham maddeye dönüştürülmesini sağlar."
+      },
+      {
+        "level": "kolay",
+        "text": "Aşağıdakilerden hangisi geri dönüştürülebilen atıklara örnektir?",
+        "options": [
+          "Cam şişe",
+          "Islak mendil",
+          "Yemek artığı",
+          "Kirli peçete"
+        ],
+        "answer": 0,
+        "explain": "Cam, kâğıt, metal ve plastik gibi atıklar uygun şekilde ayrıldığında geri dönüştürülebilir."
+      },
+      {
+        "level": "kolay",
+        "text": "Atık piller neden ayrı kutularda toplanmalıdır?",
+        "options": [
+          "Daha parlak göründükleri için",
+          "Toprağa ve suya zararlı maddeler karıştırabildikleri için",
+          "Kâğıt atık oldukları için",
+          "Hemen komposta dönüştükleri için"
+        ],
+        "answer": 1,
+        "explain": "Atık piller ağır metaller ve zararlı kimyasallar içerebilir; bu yüzden özel toplama kutularına atılmalıdır."
+      },
+      {
+        "level": "kolay",
+        "text": "Kullanılmayan odanın ışığını kapatmak hangi davranışa örnektir?",
+        "options": [
+          "Enerji tasarrufu",
+          "Ses yalıtımı",
+          "Işık kırılması",
+          "Sürtünmeyi artırma"
+        ],
+        "answer": 0,
+        "explain": "Gereksiz ışıkları kapatmak elektrik enerjisi tüketimini azaltır."
+      },
+      {
+        "level": "kolay",
+        "text": "Diş fırçalarken musluğu kapatmak hangi kaynağı korumaya yardım eder?",
+        "options": [
+          "Toprak",
+          "Su",
+          "Cam",
+          "Metal"
+        ],
+        "answer": 1,
+        "explain": "Musluğu gereksiz açık bırakmamak su tasarrufu sağlar."
+      },
+      {
+        "level": "kolay",
+        "text": "Kâğıt atıkların geri dönüştürülmesi en çok hangi doğal varlığı korumaya yardım eder?",
+        "options": [
+          "Ormanları",
+          "Mıknatısları",
+          "Ampulleri",
+          "Cam bardakları"
+        ],
+        "answer": 0,
+        "explain": "Kâğıt geri dönüşümü daha az ağaç kesilmesine katkı sağlar."
+      },
+      {
+        "level": "orta",
+        "text": "Atıkların kâğıt, cam, plastik ve metal olarak ayrılması geri dönüşümü neden kolaylaştırır?",
+        "options": [
+          "Atıkların daha kirli olmasını sağlar",
+          "Her malzemenin uygun yöntemle işlenmesini sağlar",
+          "Tüm atıkların yakılmasını sağlar",
+          "Geri dönüşümü gereksiz yapar"
+        ],
+        "answer": 1,
+        "explain": "Farklı atık türleri farklı işlemlerden geçtiği için ayrı toplama geri dönüşüm verimini artırır."
+      },
+      {
+        "level": "orta",
+        "text": "Kompost yapımı hangi atık türleri için uygundur?",
+        "options": [
+          "Pil ve elektronik atıklar",
+          "Cam ve metal atıklar",
+          "Meyve-sebze kabukları gibi organik atıklar",
+          "Plastik şişeler"
+        ],
+        "answer": 2,
+        "explain": "Organik atıklar uygun koşullarda parçalanarak toprağı besleyen komposta dönüştürülebilir."
+      },
+      {
+        "level": "orta",
+        "text": "Tek kullanımlık plastik ürünleri azaltmak sürdürülebilir yaşama nasıl katkı sağlar?",
+        "options": [
+          "Plastik atık miktarını azaltır",
+          "Su tüketimini her zaman artırır",
+          "Geri dönüşümü tamamen durdurur",
+          "Doğal kaynakları daha hızlı tüketir"
+        ],
+        "answer": 0,
+        "explain": "Tek kullanımlık plastiklerin azaltılması atık miktarını ve çevre kirliliğini azaltır."
+      },
+      {
+        "level": "orta",
+        "text": "Bir ürünün yeniden kullanılması ile geri dönüştürülmesi arasındaki fark nedir?",
+        "options": [
+          "Yeniden kullanımda ürün işlem görmeden tekrar kullanılır; geri dönüşümde işlenerek ham maddeye çevrilir",
+          "İkisi tamamen aynıdır",
+          "Geri dönüşümde ürün hiç değişmez",
+          "Yeniden kullanım sadece piller için yapılır"
+        ],
+        "answer": 0,
+        "explain": "Yeniden kullanım ürünün tekrar kullanılmasıdır; geri dönüşüm ise atığın işlenerek yeni üretimde kullanılacak ham maddeye dönüşmesidir."
+      },
+      {
+        "level": "orta",
+        "text": "Enerji verimli ampul kullanmanın sürdürülebilir yaşam açısından yararı nedir?",
+        "options": [
+          "Daha fazla elektrik harcar",
+          "Aynı aydınlatma için daha az enerji tüketir",
+          "Geri dönüşümü engeller",
+          "Suyu kirletir"
+        ],
+        "answer": 1,
+        "explain": "Enerji verimli ampuller daha az elektrik tüketerek doğal kaynakların korunmasına katkı sağlar."
+      },
+      {
+        "level": "orta",
+        "text": "Elektronik atıkların normal çöpe atılması neden sakıncalıdır?",
+        "options": [
+          "İçerdikleri zararlı maddeler çevreye karışabilir",
+          "Hepsi doğal gübre olur",
+          "Çok hızlı yok olurlar",
+          "Sadece kâğıttan yapılırlar"
+        ],
+        "answer": 0,
+        "explain": "Elektronik atıklar ağır metal ve zararlı bileşenler içerebilir; özel toplama noktalarına verilmelidir."
+      },
+      {
+        "level": "zor",
+        "text": "Sürdürülebilir tüketim için en doğru sıralama hangisidir?",
+        "options": [
+          "Önce azalt, sonra yeniden kullan, en son geri dönüştür",
+          "Önce yak, sonra doğaya bırak",
+          "Önce karıştır, sonra çöpe at",
+          "Önce tüketimi artır, sonra ayır"
+        ],
+        "answer": 0,
+        "explain": "Sürdürülebilirlikte en iyi yaklaşım önce tüketimi azaltmak, sonra yeniden kullanmak ve kalan atıkları geri dönüştürmektir."
+      },
+      {
+        "level": "zor",
+        "text": "Camın doğada çok uzun süre parçalanmadan kalması hangi davranışı daha önemli hâle getirir?",
+        "options": [
+          "Cam atıkları doğaya bırakmak",
+          "Camı geri dönüşüm kutusuna atmak",
+          "Camı toprağa gömmek",
+          "Camı diğer atıklarla karıştırmak"
+        ],
+        "answer": 1,
+        "explain": "Cam doğada çok uzun süre kalabildiği için ayrı toplanıp geri dönüştürülmesi çevre açısından önemlidir."
+      },
+      {
+        "level": "zor",
+        "text": "Bir okulda atıkların ayrı toplanması, su tasarrufu ve enerji tasarrufu birlikte uygulanırsa hangi sonuç beklenir?",
+        "options": [
+          "Doğal kaynak kullanımı ve çevre kirliliği azalır",
+          "Atık miktarı kesinlikle artar",
+          "Elektrik tüketimi zorunlu olarak artar",
+          "Geri dönüşüm imkânsız hâle gelir"
+        ],
+        "answer": 0,
+        "explain": "Atık ayrıştırma, su tasarrufu ve enerji tasarrufu birlikte uygulandığında sürdürülebilir yaşam desteklenir."
+      }
     ]
   },
   "6": {

@@ -22,7 +22,7 @@ Soru bankası şu kaynak dosyalardan dönüştürülmüştür:
 
 Dağılım:
 
-- 5. sınıf: 105 soru
+- 5. sınıf: 120 soru
 - 6. sınıf: 106 soru
 - 7. sınıf: 105 soru
 

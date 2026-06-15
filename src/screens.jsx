@@ -76,7 +76,7 @@ function WelcomeScreen({ name, totalPoints, onPlay, onNav, onRename }) {
 function ClassSelectScreen({ onPick, onBack }) {
   const TL = window.QUIZ.TOPIC_LIST;
   const classes = [
-    { g: 5, color: 'var(--grade5)', desc: 'Hücre, sistemler, kuvvet-hareket, madde-değişim, ışık-ses, elektrik, canlılar ve yaşam ortamları' },
+    { g: 5, color: 'var(--grade5)', desc: 'Hücre, sistemler, kuvvet-hareket, madde-değişim, ışık-ses, elektrik, canlılar, sürdürülebilir yaşam' },
     { g: 6, color: 'var(--grade6)', desc: 'Üreme-gelişme, madde-ısı, ses, ışık-görme, kuvvet-hareket, elektrik enerjisi, bitki-hayvan üremesi' },
     { g: 7, color: 'var(--grade7)', desc: 'Hücre bölünmesi-kalıtım, kuvvet-enerji, karışımlar, elektrik-manyetizma, yer kabuğu, çevre, uzay' }
   ].map(c => ({ ...c, cats: TL[c.g].length, total: window.QUIZ.TOPIC_COUNTS[c.g] }));
