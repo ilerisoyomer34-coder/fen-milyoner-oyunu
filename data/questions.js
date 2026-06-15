@@ -1301,186 +1301,186 @@
       }
     ],
     "Sürdürülebilir Yaşam ve Geri Dönüşüm": [
-      {
-        "level": "kolay",
-        "text": "Geri dönüşümün temel amacı aşağıdakilerden hangisidir?",
-        "options": [
-          "Atık miktarını artırmak",
-          "Atıkları yeniden ham madde olarak kullanmak",
-          "Doğal kaynakları daha hızlı tüketmek",
-          "Çöpleri doğaya bırakmak"
-        ],
-        "answer": 1,
-        "explain": "Geri dönüşüm, kullanılabilir atıkların işlenerek yeniden ham maddeye dönüştürülmesini sağlar."
-      },
-      {
-        "level": "kolay",
-        "text": "Aşağıdakilerden hangisi geri dönüştürülebilen atıklara örnektir?",
-        "options": [
-          "Cam şişe",
-          "Islak mendil",
-          "Yemek artığı",
-          "Kirli peçete"
-        ],
-        "answer": 0,
-        "explain": "Cam, kâğıt, metal ve plastik gibi atıklar uygun şekilde ayrıldığında geri dönüştürülebilir."
-      },
-      {
-        "level": "kolay",
-        "text": "Atık piller neden ayrı kutularda toplanmalıdır?",
-        "options": [
-          "Daha parlak göründükleri için",
-          "Toprağa ve suya zararlı maddeler karıştırabildikleri için",
-          "Kâğıt atık oldukları için",
-          "Hemen komposta dönüştükleri için"
-        ],
-        "answer": 1,
-        "explain": "Atık piller ağır metaller ve zararlı kimyasallar içerebilir; bu yüzden özel toplama kutularına atılmalıdır."
-      },
-      {
-        "level": "kolay",
-        "text": "Kullanılmayan odanın ışığını kapatmak hangi davranışa örnektir?",
-        "options": [
-          "Enerji tasarrufu",
-          "Ses yalıtımı",
-          "Işık kırılması",
-          "Sürtünmeyi artırma"
-        ],
-        "answer": 0,
-        "explain": "Gereksiz ışıkları kapatmak elektrik enerjisi tüketimini azaltır."
-      },
-      {
-        "level": "kolay",
-        "text": "Diş fırçalarken musluğu kapatmak hangi kaynağı korumaya yardım eder?",
-        "options": [
-          "Toprak",
-          "Su",
-          "Cam",
-          "Metal"
-        ],
-        "answer": 1,
-        "explain": "Musluğu gereksiz açık bırakmamak su tasarrufu sağlar."
-      },
-      {
-        "level": "kolay",
-        "text": "Kâğıt atıkların geri dönüştürülmesi en çok hangi doğal varlığı korumaya yardım eder?",
-        "options": [
-          "Ormanları",
-          "Mıknatısları",
-          "Ampulleri",
-          "Cam bardakları"
-        ],
-        "answer": 0,
-        "explain": "Kâğıt geri dönüşümü daha az ağaç kesilmesine katkı sağlar."
-      },
-      {
-        "level": "orta",
-        "text": "Atıkların kâğıt, cam, plastik ve metal olarak ayrılması geri dönüşümü neden kolaylaştırır?",
-        "options": [
-          "Atıkların daha kirli olmasını sağlar",
-          "Her malzemenin uygun yöntemle işlenmesini sağlar",
-          "Tüm atıkların yakılmasını sağlar",
-          "Geri dönüşümü gereksiz yapar"
-        ],
-        "answer": 1,
-        "explain": "Farklı atık türleri farklı işlemlerden geçtiği için ayrı toplama geri dönüşüm verimini artırır."
-      },
-      {
-        "level": "orta",
-        "text": "Kompost yapımı hangi atık türleri için uygundur?",
-        "options": [
-          "Pil ve elektronik atıklar",
-          "Cam ve metal atıklar",
-          "Meyve-sebze kabukları gibi organik atıklar",
-          "Plastik şişeler"
-        ],
-        "answer": 2,
-        "explain": "Organik atıklar uygun koşullarda parçalanarak toprağı besleyen komposta dönüştürülebilir."
-      },
-      {
-        "level": "orta",
-        "text": "Tek kullanımlık plastik ürünleri azaltmak sürdürülebilir yaşama nasıl katkı sağlar?",
-        "options": [
-          "Plastik atık miktarını azaltır",
-          "Su tüketimini her zaman artırır",
-          "Geri dönüşümü tamamen durdurur",
-          "Doğal kaynakları daha hızlı tüketir"
-        ],
-        "answer": 0,
-        "explain": "Tek kullanımlık plastiklerin azaltılması atık miktarını ve çevre kirliliğini azaltır."
-      },
-      {
-        "level": "orta",
-        "text": "Bir ürünün yeniden kullanılması ile geri dönüştürülmesi arasındaki fark nedir?",
-        "options": [
-          "Yeniden kullanımda ürün işlem görmeden tekrar kullanılır; geri dönüşümde işlenerek ham maddeye çevrilir",
-          "İkisi tamamen aynıdır",
-          "Geri dönüşümde ürün hiç değişmez",
-          "Yeniden kullanım sadece piller için yapılır"
-        ],
-        "answer": 0,
-        "explain": "Yeniden kullanım ürünün tekrar kullanılmasıdır; geri dönüşüm ise atığın işlenerek yeni üretimde kullanılacak ham maddeye dönüşmesidir."
-      },
-      {
-        "level": "orta",
-        "text": "Enerji verimli ampul kullanmanın sürdürülebilir yaşam açısından yararı nedir?",
-        "options": [
-          "Daha fazla elektrik harcar",
-          "Aynı aydınlatma için daha az enerji tüketir",
-          "Geri dönüşümü engeller",
-          "Suyu kirletir"
-        ],
-        "answer": 1,
-        "explain": "Enerji verimli ampuller daha az elektrik tüketerek doğal kaynakların korunmasına katkı sağlar."
-      },
-      {
-        "level": "orta",
-        "text": "Elektronik atıkların normal çöpe atılması neden sakıncalıdır?",
-        "options": [
-          "İçerdikleri zararlı maddeler çevreye karışabilir",
-          "Hepsi doğal gübre olur",
-          "Çok hızlı yok olurlar",
-          "Sadece kâğıttan yapılırlar"
-        ],
-        "answer": 0,
-        "explain": "Elektronik atıklar ağır metal ve zararlı bileşenler içerebilir; özel toplama noktalarına verilmelidir."
-      },
-      {
-        "level": "zor",
-        "text": "Sürdürülebilir tüketim için en doğru sıralama hangisidir?",
-        "options": [
-          "Önce azalt, sonra yeniden kullan, en son geri dönüştür",
-          "Önce yak, sonra doğaya bırak",
-          "Önce karıştır, sonra çöpe at",
-          "Önce tüketimi artır, sonra ayır"
-        ],
-        "answer": 0,
-        "explain": "Sürdürülebilirlikte en iyi yaklaşım önce tüketimi azaltmak, sonra yeniden kullanmak ve kalan atıkları geri dönüştürmektir."
-      },
-      {
-        "level": "zor",
-        "text": "Camın doğada çok uzun süre parçalanmadan kalması hangi davranışı daha önemli hâle getirir?",
-        "options": [
-          "Cam atıkları doğaya bırakmak",
-          "Camı geri dönüşüm kutusuna atmak",
-          "Camı toprağa gömmek",
-          "Camı diğer atıklarla karıştırmak"
-        ],
-        "answer": 1,
-        "explain": "Cam doğada çok uzun süre kalabildiği için ayrı toplanıp geri dönüştürülmesi çevre açısından önemlidir."
-      },
-      {
-        "level": "zor",
-        "text": "Bir okulda atıkların ayrı toplanması, su tasarrufu ve enerji tasarrufu birlikte uygulanırsa hangi sonuç beklenir?",
-        "options": [
-          "Doğal kaynak kullanımı ve çevre kirliliği azalır",
-          "Atık miktarı kesinlikle artar",
-          "Elektrik tüketimi zorunlu olarak artar",
-          "Geri dönüşüm imkânsız hâle gelir"
-        ],
-        "answer": 0,
-        "explain": "Atık ayrıştırma, su tasarrufu ve enerji tasarrufu birlikte uygulandığında sürdürülebilir yaşam desteklenir."
-      }
+          {
+                "level": "kolay",
+                "text": "Geri dönüşüm ne anlama gelir?",
+                "options": [
+                      "Kullanılmış malzemeleri çöpe atmak",
+                      "Atık malzemelerin yeniden işlenerek yeni ürünlere dönüştürülmesi",
+                      "Her gün yeni ürün satın almak",
+                      "Malzemeleri depolamak"
+                ],
+                "answer": 1,
+                "explain": "Geri dönüşüm; kâğıt, cam, plastik, metal gibi atıkların toplanıp fabrikada işlenerek yeniden kullanılabilir hale getirilmesidir."
+          },
+          {
+                "level": "kolay",
+                "text": "Aşağıdaki renkli çöp kutularından hangisine kâğıt ve karton atıklar atılır?",
+                "options": [
+                      "Mavi kutu",
+                      "Sarı kutu",
+                      "Yeşil kutu",
+                      "Kırmızı kutu"
+                ],
+                "answer": 0,
+                "explain": "Türkiye'de mavi renkli kumbaralar kâğıt ve karton atıkların geri dönüşümü için kullanılır."
+          },
+          {
+                "level": "kolay",
+                "text": "Sürdürülebilir yaşam için aşağıdakilerden hangisi doğru bir davranıştır?",
+                "options": [
+                      "Her gün tek kullanımlık plastik bardak kullanmak",
+                      "Suyu gereksiz yere açık bırakmak",
+                      "Market alışverişine bez çanta götürmek",
+                      "Elektronik cihazları bekleme modunda bırakmak"
+                ],
+                "answer": 2,
+                "explain": "Bez çanta, her seferinde yeni plastik poşet kullanımını önler ve plastik atık miktarını azaltır."
+          },
+          {
+                "level": "kolay",
+                "text": "Hangi madde geri dönüştürülerek en fazla enerji tasarrufu sağlar?",
+                "options": [
+                      "Cam",
+                      "Kâğıt",
+                      "Alüminyum (teneke kutu)",
+                      "Plastik"
+                ],
+                "answer": 2,
+                "explain": "Alüminyum geri dönüşümü, sıfırdan üretimle karşılaştırıldığında yaklaşık %95 enerji tasarrufu sağlar."
+          },
+          {
+                "level": "kolay",
+                "text": "3R (Üç R) kuralında hangi kavramlar yer alır?",
+                "options": [
+                      "Reduce – Reuse – Recycle (Azalt – Yeniden Kullan – Geri Dönüştür)",
+                      "Read – Run – Rest",
+                      "Repair – Remove – Replace",
+                      "Refill – Refuse – Release"
+                ],
+                "answer": 0,
+                "explain": "3R: Azalt (kullanımı azalt), Yeniden Kullan (ürünü tekrar kullan), Geri Dönüştür (atığı ham maddeye çevir). Bu hiyerarşi en önemli sıralamayı gösterir."
+          },
+          {
+                "level": "kolay",
+                "text": "Hangi enerji kaynağı yenilenebilir ve çevre dostudur?",
+                "options": [
+                      "Kömür",
+                      "Doğal gaz",
+                      "Güneş enerjisi",
+                      "Petrol"
+                ],
+                "answer": 2,
+                "explain": "Güneş enerjisi tükenmez, sera gazı salımı yok denecek kadar azdır ve sürdürülebilir yaşamın temel enerji kaynaklarından biridir."
+          },
+          {
+                "level": "orta",
+                "text": "Bir cam şişenin doğada kendiliğinden parçalanması yaklaşık kaç yıl alır?",
+                "options": [
+                      "5 yıl",
+                      "50 yıl",
+                      "1.000 yıl",
+                      "Hiçbir zaman parçalanmaz"
+                ],
+                "answer": 2,
+                "explain": "Cam çok uzun süre bozunmaz; doğada parçalanması 1.000 yıla kadar çıkabilir. Bu nedenle cam geri dönüşümü kritik önem taşır."
+          },
+          {
+                "level": "orta",
+                "text": "Kompost (organik gübre) yapmak sürdürülebilir yaşama nasıl katkıda bulunur?",
+                "options": [
+                      "Plastik atıkları azaltır",
+                      "Sebze-meyve artıkları çöpe gitmez; toprak zenginleştirici gübreye dönüşür, çöp miktarı ve kimyasal gübre kullanımı azalır",
+                      "Enerji tasarrufu sağlar",
+                      "Suyu arıtır"
+                ],
+                "answer": 1,
+                "explain": "Organik atıklar kompostlanınca hem çöp depolama alanı ihtiyacı azalır hem de kimyasal gübre yerine kullanılabilen doğal toprak iyileştirici elde edilir."
+          },
+          {
+                "level": "orta",
+                "text": "Bir plastik poşetin doğada kendiliğinden parçalanması ne kadar sürer?",
+                "options": [
+                      "1 yıl",
+                      "10 yıl",
+                      "100-500 yıl",
+                      "1 ay"
+                ],
+                "answer": 2,
+                "explain": "Plastik poşetler 100–500 yıl boyunca doğada kalır; zamanla mikroplastiklere parçalanarak toprağa, sulara ve canlılara zarar verir."
+          },
+          {
+                "level": "orta",
+                "text": "Su tasarrufu için aşağıdaki davranışlardan hangisi en etkilidir?",
+                "options": [
+                      "Bulaşıkları yıkarken musluğu sürekli açık bırakmak",
+                      "Her gün uzun duş almak",
+                      "Damlayan muslukları onartmak ve tasarruflu ekipmanlar kullanmak",
+                      "Araba yıkamada hortum kullanmak"
+                ],
+                "answer": 2,
+                "explain": "Damlayan bir musluk günde 30–200 litre su israf edebilir. Tasarruflu musluk başlıkları ve duş başlıkları su kullanımını %50'ye kadar azaltır."
+          },
+          {
+                "level": "orta",
+                "text": "Aşağıda verilen atıkların hangisi ayrı toplanarak tıbbi atık kutusuna atılmalıdır?",
+                "options": [
+                      "Gazete kâğıdı",
+                      "Cam şişe",
+                      "Pil ve akümülatör",
+                      "Plastik pet şişe"
+                ],
+                "answer": 2,
+                "explain": "Piller ve aküler cıva, kurşun, kadmiyum gibi ağır metaller içerir. Çöpe ya da doğaya atılırlarsa toprağı ve suyu ciddi biçimde kirletirler; ayrı toplamak zorunludur."
+          },
+          {
+                "level": "orta",
+                "text": "Geri dönüşümün orman kaynaklarına doğrudan katkısı nedir?",
+                "options": [
+                      "Ormanlar büyür",
+                      "Kâğıt geri dönüşümü sayesinde daha az ağaç kesilir ve orman alanları korunur",
+                      "Hayvanlar şehre gelir",
+                      "Su kaynakları artar"
+                ],
+                "answer": 1,
+                "explain": "Bir ton geri dönüştürülmüş kâğıt, ortalama 17 ağacın kesilmesini engeller. Bu, orman ekosistemlerini ve biyoçeşitliliği korur."
+          },
+          {
+                "level": "zor",
+                "text": "Tek kullanımlık plastiklerin yasaklanmasının olumlu ve olumsuz sonuçlarından hangisi doğru verilmiştir?",
+                "options": [
+                      "Olumlu: Daha fazla plastik üretilir; Olumsuz: Maliyetler düşer",
+                      "Olumlu: Okyanus plastik kirliliği azalır ve kaynak tasarrufu sağlanır; Olumsuz: Alternatif malzemelerin ilk üretim maliyeti yükselebilir",
+                      "Olumlu: Plastik sanayisi büyür; Olumsuz: Çevre kirliliği artar",
+                      "Olumlu ve olumsuz etkisi yoktur"
+                ],
+                "answer": 1,
+                "explain": "Yasak; okyanus ve toprak kirliliğini azaltır, ham madde tasarrufu sağlar. Ancak kâğıt, bambu veya biyoplastik gibi alternatiflerin üretim altyapısı kurulana dek maliyet artışı yaşanabilir."
+          },
+          {
+                "level": "zor",
+                "text": "'Döngüsel ekonomi' kavramı ne anlama gelir ve doğrusal ekonomiden farkı nedir?",
+                "options": [
+                      "Yalnızca geri dönüşümü kapsar",
+                      "Ürünlerin tasarım aşamasından itibaren yeniden kullanım, onarım ve geri dönüşüm düşünülerek tasarlandığı; atığın en aza indirildiği sistem — 'al-üret-at' yerine 'tasarla-kullan-geri kazan'",
+                      "Ekonomik büyümeyi durdurmayı hedefler",
+                      "Yalnızca enerji tasarrufunu kapsar"
+                ],
+                "answer": 1,
+                "explain": "Doğrusal ekonomi: Ham madde → Üretim → Kullanım → Çöp. Döngüsel ekonomi: Atık sıfır hedefiyle ürünler tekrar sisteme girer. Bu model doğal kaynakları korur ve uzun vadeli sürdürülebilirliği sağlar."
+          },
+          {
+                "level": "zor",
+                "text": "Bir öğrenci okulda geri dönüşüm kampanyası başlatıyor. Kampanyanın en kalıcı etkiyi yaratması için hangi yaklaşım tercih edilmelidir?",
+                "options": [
+                      "Yalnızca kâğıt toplama kutusu koymak",
+                      "Hem davranış değişikliği eğitimi (neden geri dönüşüm?) hem fiziksel altyapı (ayrı kutular) hem de düzenli takip ve geri bildirim sağlamak",
+                      "Konuyla ilgili afiş asmak",
+                      "Yalnızca öğretmenleri bilgilendirmek"
+                ],
+                "answer": 1,
+                "explain": "Araştırmalar, etkili çevre programlarının üç bileşen içermesi gerektiğini gösteriyor: Farkındalık/eğitim (neden?), altyapı (nasıl?) ve davranışın izlenmesi/ödüllenmesi. Tek başına herhangi bir bileşen yeterli değildir."
+          }
     ]
   },
   "6": {
